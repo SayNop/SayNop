@@ -4,7 +4,7 @@
 ### Welcome to my channel 👋
 
 <!-- ![Leopold Yang github stats](https://github-readme-stats.vercel.app/api?username=SayNop&show_icons=true) -->
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayNop&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayNop&layout=compact)
 <br>
 
 - 🤔 逆向学习中...

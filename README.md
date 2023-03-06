@@ -7,7 +7,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayNop&layout=compact)
 <br>
 
-- 🤔 逆向学习中...
+-  Here is my [blog](https://saynop.github.io/)
+- 🤔 Learning android reverse...
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayNop&layout=compact)

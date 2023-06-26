@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayNop&layout=compact&exclude_repo=SayNop.github.io&hide_border=true&bg_color=0,27282200,00080808"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayNop&layout=compact&exclude_repo=SayNop.github.io&hide_border=true&bg_color=0,27282200,6495ED08"/>
 
 
 ### Welcome to my channel 👋
